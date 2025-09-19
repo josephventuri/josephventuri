@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph Venturi
 
-☁️ Cloud Operations Engineer | 🎖 Army Ranger Veteran | 🌴 Southern California native
+☁️ Cloud Engineer | 🎖 Army Ranger Veteran | 🌴 Southern California native
 
 As a Cloud Operations Engineer, I'm actively building and documenting projects — many of which are showcased right here on my [GitHub profile](https://github.com/josephventuri) and on my personal website at [josephventuri.io](https://josephventuri.io).
 
