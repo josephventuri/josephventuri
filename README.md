@@ -28,14 +28,13 @@ I bring the same operational discipline from the 75th Ranger Regiment to cyberse
 - Phishing analysis and network traffic analysis
 
 **Security Platforms & Tooling:**
-- **EDR/XDR:** SentinelOne, BlackPoint Cyber
+- **EDR/XDR:** SentinelOne
 - **Application Control:** ThreatLocker
-- **Email Security:** IronScales
-- **SIEM & Orchestration:** Timus
+- **Email Security:** IronScales, MailProtector
+- **SIEM & Orchestration:** BlackPoint Cyber
 - **Network Security:** Firewalls, DLP, network analysis tools
 
 **Compliance & Frameworks:**
-- PCI DSS alignment and asset reconciliation
 - Security documentation and audit readiness
 - Policy development and enforcement
 
