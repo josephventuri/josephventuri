@@ -1,6 +1,6 @@
 # Joseph Venturi
 
-**Cybersecurity Operations | Incident Response | SOC Analyst**
+**Cybersecurity Engineer | Cloud Security | Security+**
 75th Ranger Veteran | Secret Security Clearance
 
 ---
