@@ -2,7 +2,6 @@
 
 **Cybersecurity Operations | Incident Response | SOC Analyst**
 75th Ranger Veteran | Secret Security Clearance
-Southern California
 
 ---
 
