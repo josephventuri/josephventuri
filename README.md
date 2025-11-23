@@ -1,7 +1,7 @@
 # Joseph Venturi
 
 **Cybersecurity Operations | Incident Response | SOC Analyst**
-Army Ranger Veteran (75th Ranger Regiment) | Secret Security Clearance
+75th Ranger Veteran | Secret Security Clearance
 Southern California
 
 ---
